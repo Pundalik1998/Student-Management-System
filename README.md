@@ -168,6 +168,11 @@ task-react-node-typescript/
  ┣ README.md
 
 
+### `Sample screenshots`
+ https://prnt.sc/GikcblGg2BoE
+ https://prnt.sc/RbeO4KB16KMq
+ https://prnt.sc/lgi1TbPjn169
+
 ### `Author`
 Pundalik Masurkar
 React / MERN Stack Developer
