@@ -161,4 +161,13 @@ Frontend runs on `http://localhost:5173`.
 ```
 
 
+### `Folder Structure`
+task-react-node-typescript/
+ ┣ client/
+ ┣ server/
+ ┣ README.md
 
+
+### `Author`
+Pundalik Masurkar
+React / MERN Stack Developer
